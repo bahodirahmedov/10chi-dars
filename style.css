@@ -1,0 +1,570 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  font-family: "Rubik","Arial",'sans-serif';
+  font-weight: bold;
+  line-height: 18px;
+  font-size: 15px;
+  justify-content: center;
+
+
+}
+.umumiy{
+  max-width: 1260px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 5px;
+}
+.birinchidiv{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1200px;
+}
+.ulbirclass a{
+  padding: 3px;
+}
+.menyu{
+  display: flex;
+  list-style-type: none;
+}
+.menyu a{
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
+  font-size: 10px;
+
+}
+.menyu li{
+  padding-right: 15px;
+}
+.demo-a{
+  border: cadetblue 1px solid;
+  border-radius: 35px;
+  background-color: white;
+  font-size: 14px;
+  width: 150px;
+  margin-left: 580px;
+  text-decoration: none;
+  color: black;
+  padding-top: 10px;
+  padding-left: 18px;
+  height: 40px;
+
+}
+.ulikki{
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
+  width: 480px;
+}
+.h1class{
+  width: 600px;
+  font-size: 70px;
+  height: 180px;
+  line-height: 80px;
+}
+.ulikki li{
+  font-size: 14px;
+  width: 300px;
+  height: 280px;
+  color: grey;
+  margin-bottom: -120px;
+}
+.ulikki a{
+  border: 1px fuchsia solid;
+  font-size: 16px;
+  padding-top:15px;
+  padding-bottom: 15px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 20px;
+  background: fuchsia;
+  color: aliceblue;
+margin-bottom: 120px;
+text-decoration: none;
+}
+.liikki{
+  margin-left: 10px;
+width: 400px;
+margin-top: 200px;
+text-decoration: none;
+margin-right: 10px;
+list-style-type: none;
+
+}
+.liikki img{
+  margin-right: 170px;
+}
+.rasmdivi{
+  display: flex;
+  width:1100px ;
+}
+.seconddiv{
+  display: flex;
+  width: 1100px;
+  height: 400px;
+  margin-left: 100px;
+  margin-top: 60px;
+  background-color: peachpuff;
+}
+.keraksiz{
+  padding-left: 30px;
+  margin-top: 90px;
+  margin-left: 20px;
+}
+.keraksiz h2{
+  width: 500px;
+  font-size: 40px;
+  height: 70px;
+  line-height: 40px;
+
+}
+.keraksiz p{
+  color: grey;
+  font-size: 14px;
+}
+.problemdiv{
+  text-align: center;
+  background-color: whitesmoke;
+  width: 1100px;
+  justify-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.centralnidiv{
+  padding-right: 40px;
+ padding-top: 40px;
+ padding-left: 40px;
+ width: 600px;
+ background-color: white;
+ margin-right: auto;
+ margin-top: 20px;
+ margin-left: auto;
+ text-align: center;
+
+}
+.grafh2{
+font-size: 32px;
+margin-left: auto;
+margin-right: auto;
+
+}
+.centralnidiv p{
+  font-size: 18px;
+  width: 400px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+.tortliul{
+  display: flex;
+  text-decoration: none;
+  list-style-type: none;
+  width: 1050px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.aclassk{
+  border: 3px solid lightblue;
+  border-radius: 10px;
+  width: 30px;
+  color: black;
+  text-decoration: none;
+  font-size: 18px ;
+
+}
+.litortclass{
+  display: flex;
+  width: 500px;
+
+
+}
+.litortclass p{
+  width: 200px;
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 12px;
+  color: grey;
+}
+.litortclass strong{
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.litortclass div{
+  padding-top: 25px;
+  padding-bottom: 20px;
+  background-color:lightskyblue;
+  border-radius: 25px;
+}
+.litortclass2{
+  margin-left: 50px;
+  display: flex;
+  width: 500px;
+
+
+}
+.litortclass2 p{
+ width: 200px;
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 12px;
+  color: grey;
+}
+.litortclass2 strong{
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.litortclass2 div{
+  padding-top: 25px;
+  padding-bottom: 20px;
+  background-color:lightgrey;
+  border-radius: 25px;
+}
+.litortclass3{
+  margin-left: 50px;
+  display: flex;
+  width: 500px;
+
+}
+.litortclass3 p{
+  width: 200px;
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 12px;
+  color: grey;
+}
+.litortclass3 strong{
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.litortclass3 div{
+  padding-top: 25px;
+  padding-bottom: 20px;
+  background-color:lightgoldenrodyellow;
+  border-radius: 25px;
+}
+.litortclass4{
+  margin-left: 50px;
+  display: flex;
+  width: 500px;
+
+}
+.litortclass4 p{
+  width: 200px;
+  padding-top: 10px;
+  padding-left: 10px;
+  font-size: 12px;
+  color: grey;
+}
+.litortclass4 strong{
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.litortclass4 div{
+  padding-top: 25px;
+  padding-bottom: 20px;
+  background-color: lightcyan;
+  border-radius: 25px;
+}
+.ulklass{
+  display: flex;
+  text-decoration: none;
+  list-style-type: none;
+  width: 1050px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.divtort{
+  width: 1100px;
+  text-align: center;
+  justify-items: center;
+}
+.borderdiv{
+  border: 1px solid purple;
+  width: 1050px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  height: 680px;
+  border-radius: 45px;
+  background-color: darkorchid;
+  margin-bottom: 10px;
+padding-bottom: 10px;
+}
+.borderdiv p{
+  font-size: 30px;
+  margin-top: 120px;
+  margin-left: 100px;
+  color: white;
+
+}
+.ulichki{
+  flex-shrink: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  display: flex;
+  width: 800px;
+  margin-bottom: 10px;
+}
+.liichki{
+  border: lightgray 1px solid;
+  border-radius: 15px;
+  width: 730px;
+  display: flex;
+  margin-left: 10px;
+  margin-bottom: 50px;
+  background-color: whitesmoke;
+  padding-bottom: 60px;
+}
+.liichki img{
+  margin-left: 12px;
+  margin-top: 12px;
+
+}
+.ichkidiv a{
+font-size: 14px;
+color: gray;
+
+}
+.ichkidiv{
+  justify-items: center;
+  width: 300px;
+
+}
+.ichkidiv hr{
+  margin-left:50px;
+  margin-right: auto;
+  margin-top: auto;
+  font-size: 26px;
+
+}
+.ichkidiv p{
+  font-size: 14px;
+  margin-left: auto;
+  margin-top: 20px;
+  margin-right: auto;
+  color: black;
+  width: 240px;
+}
+.hr4class{
+margin-left: 30px;
+margin-right: 50px;
+margin-bottom: 8px;
+}
+.classsh{
+  margin-right: 60px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+.button1{
+  color: darkslategrey;
+  font-size: 10px;
+  margin-bottom: 70px;
+  margin-right: 4px;
+}
+.button1:hover{
+font-size: 15px;
+color: tomato;
+}
+.buttonul{
+  display: flex;
+  margin-left: 40px;
+  margin-bottom: 290px;
+}
+.button2{
+  color: darkslategrey;
+  font-size: 10px;
+  margin-bottom: 70px;
+  margin-right: 4px;
+}
+.button3{
+  color: darkslategrey;
+  font-size: 10px;
+  margin-bottom: 70px;
+  margin-right: 4px;
+}
+.button4{
+  color: darkslategrey;
+  font-size: 10px;
+  margin-bottom: 70px;
+
+}
+.button4:hover{
+  color: tomato;
+  font-size:15px ;
+
+}
+.button3:hover{
+  color: tomato;
+  font-size:15px ;
+}
+.button2{
+  color: tomato;
+  font-size:15px ;
+}
+.lastdivclass{
+  background-color: white;
+  width: 1180px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 600px;
+}
+.lastdivclass p{
+  font-size: 12px;
+  color: grey;
+}
+.menudiv{
+  line-height: 15px;
+  margin-left: 60px ;
+  padding-top: 40px;
+}
+.h3class{
+  font-size: 35px;
+}
+.yanadiv{
+  display: flex;
+}
+.lastul{
+  text-decoration: none;
+  list-style-type: none;
+  display: flex;
+  width: 400px;
+  margin-left: 400px;
+}
+.li1{
+  margin-top: 80px;
+
+}
+.lasta{
+  border: pink 1px solid;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 22px;
+  background-color: violet;
+}
+.lasta2{
+  border: whitesmoke 1px solid;
+  justify-content: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  color:black;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 22px;
+  background-color:white;
+}
+.li2{
+  margin-top: 80px;
+  padding-left: 15px;
+
+}
+.div-inside{
+  display: flex;
+  margin-left:60px;
+  padding-top: 80px;
+  align-items: center;
+
+}
+.div-inside p{
+  font-size: 15px;
+  color: black;
+}
+.div-inside img{
+  padding-right: 12px;
+}
+.ul-inside{
+  margin-left: 20px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+.ul-inside li{
+  list-style-type: none;
+color: black;
+font-size: 16px;
+width: 340px;
+}
+.ul-inside a{
+color: grey;
+font-size: 14px;
+list-style-type: none;
+}
+.lilia{
+  width: 180px;
+  padding-top: 10px;
+}
+.dis-div{
+  display: flex;
+}
+.menyuul{
+  list-style-type: none;
+  text-decoration: none;
+  margin-left: 180px;
+  display: flex;
+  width: 300px;
+}
+.menyuul a{
+color: black;
+font-size: 20px;
+text-decoration: none;
+}
+.a-div{
+padding-top: 20px;
+}
+.a-div a{
+color: grey;
+}
+.li-div{
+  padding-left: 30px;
+}
+.li-div2{
+  padding-left: 40px;
+}
+.a-div3{
+  padding-left: 20px;
+  display: flex;
+  width: 150px;
+}
+.a-div3 a{
+border: 1px solid whitesmoke;
+border-radius: 20px;
+padding-top: 14px;
+padding-left: 8px;
+padding-right: 8px;
+padding-bottom: 8px;
+
+}
+.a-div3 p{
+  padding-left: 8px;
+  width: 40px;
+}
+.div-lastclass{
+  display: flex;
+}
+.div-lastclass p{
+  color: grey;
+  font-size: 16px;
+  width: 300px;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+.last-li{
+  margin-left: 600px;
+  list-style-type: none;
+}
+.last-li a{
+  border:1px solid lightslategray;
+  padding:10px;
+  border-radius: 30px;
+  padding-top: 15px;
+}
